@@ -1,13 +1,13 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/Header-3.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jane He</h1>
-<h3 align="center">A passionate frontend developer from Waterloo</h3>
+<h3 align="center">A passionate Full Stack Developer from Waterloo</h3>
 <img align="right" alt="Coding" width="300" src = "https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zelaney02&label=Profile%20views&color=0e75b6&style=flat" alt="zelaney02" /> </p>
 
 - 🔭 I’m currently working on **Personal Website**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 Explore my projects at [https://github.com/Zelaney02?tab=projects](https://github.com/Zelaney02?tab=projects)
 
