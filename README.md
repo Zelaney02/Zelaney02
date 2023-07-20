@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 Explore my projects at [https://github.com/Zelaney02?tab=projects](https://github.com/Zelaney02?tab=projects)
+- 👨‍💻 Explore my projects at [[https://github.com/Zelaney02?tab=projects](https://github.com/Zelaney02?tab=projects)](https://github.com/Zelaney02?tab=repositories).
 
 - 📫 How to reach me **j33he@uwaterloo.ca**
 
