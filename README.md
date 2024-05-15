@@ -1,10 +1,18 @@
 ![BannerGIF](https://visme.co/blog/wp-content/uploads/2020/06/Header-3.gif)
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Zelaney02&color=red)&nbsp;
 [![GitHub Zelaney02](https://img.shields.io/github/followers/Zelaney02?label=follow&style=social)](https://github.com/Zelaney02)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
+
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hey, I'm Jane !
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Jane_He-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jane-he-a48b3b21a/) 
+[![Email](https://img.shields.io/badge/-j33he@uwaterloo.ca-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:j33he@uwaterloo.ca)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelaney02&layout=compact&radical" alt="zelaney02" />
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -41,8 +49,3 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
-### 📫 &nbsp; How to reach me:
-
-<a href="https://www.linkedin.com/in/jane-he-a48b3b21a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:j33he@uwaterloo.ca"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/jane_hehe_"><img src="https://img.shields.io/badge/-@jane__hehe__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
