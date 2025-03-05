@@ -21,7 +21,7 @@
 🌱 &nbsp;I’m currently diving deeper into Spring Boot, Kubernetes, and advanced AI techniques. \
 ✍️ &nbsp;In my free time, I enjoy exploring new technologies and going to the gym. \
 ✉️ &nbsp;You can email me at j33he@uwaterloo.ca. I'll try to respond as soon as possible! \
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1_KQrnTlK-kM5xBCwadLL49xo7h77no1u/view?usp=sharing) for more details about my work experience.
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1kPUcg7qJkeoqrkJgqoLdZncwF0hdt2AI/view?usp=sharing) for more details about my work experience.
 
 ### 🛠 &nbsp;Tech Stack
 
